@@ -1,0 +1,7 @@
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+opencv-python
+mediapipe
+scikit-learn
+pandas
+matplotlib
+numpy
